@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HTMLResume.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HTMLResume_jar</output-path>
+    <root id="archive" name="JavaItPlace.jar">
+      <element id="module-output" name="JavaItPlace" />
+    </root>
+  </artifact>
+</component>
